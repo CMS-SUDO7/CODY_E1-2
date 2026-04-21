@@ -11,7 +11,7 @@ class Quiz_game:
         self.최고점수 = 0
         self.불러오기()
 
-    def 시작(self):
+    def 시작(self): # 시작 화면 구현
         if not self.문제들:
             self.load_기본문제()
 
