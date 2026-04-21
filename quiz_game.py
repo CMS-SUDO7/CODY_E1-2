@@ -94,7 +94,7 @@ class Quiz_game:
         except Exception as e:
             print("저장 오류:", e)
 
-    def 불러오기(self, 파일명="state.json"):
+    def 불러오기(self, 파일명="state.json"): #json 불러오기
         if not os.path.exists(파일명):
             print("저장된 파일이 없어 기본 문제를 불러옵니다.")
             self.load_기본문제()
