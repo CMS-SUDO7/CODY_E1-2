@@ -114,7 +114,7 @@ class Quiz_game:
             print(f"불러오기 중 오류 발생: {e}")
             self.load_기본문제()
             
-    def 퀴즈추가(self):
+    def 퀴즈추가(self): # 퀴즈추가
         질문 = input('문제:').strip()
         보기 = []
 
