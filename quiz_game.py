@@ -44,7 +44,7 @@ class Quiz_game:
             Quiz("영국 수도는?", ["맨체스터", "런던", "리버풀", "브리스톨"], 2),
         ]
 
-    def 목록보기(self):
+    def 목록보기(self): #퀴즈 목록
         if not self.문제들:
             self.load_기본문제()
 
