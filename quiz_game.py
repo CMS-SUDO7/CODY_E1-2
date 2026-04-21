@@ -81,7 +81,7 @@ class Quiz_game:
 
 
 
-    def 저장하기(self, 파일명="state.json"):
+    def 저장하기(self, 파일명="state.json"): #json 저장하기
         데이터 = {
             "최고점수": self.최고점수,
             "문제들": [quiz.딕셔너리() for quiz in self.문제들]
