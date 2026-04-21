@@ -99,36 +99,56 @@ README.md : 프로젝트 설명 문서
         }
     ]
 }
-
-
-# ✅ 4. Git 커밋
-
-
 ```
+
+# ✅ 4. brench 생성 병합(merge) Git 커밋 기록과 clone // pull 실습
+<img width="1185" height="186" alt="스크린샷 2026-04-21 162039" src="https://github.com/user-attachments/assets/f708fb2a-0da4-46ad-bd3f-243c545f362e" />
+
+<img width="1179" height="131" alt="스크린샷 2026-04-21 162046" src="https://github.com/user-attachments/assets/3ada4156-a312-498e-9f5e-cc9f4d4472ae" />
+
+<img width="1180" height="401" alt="스크린샷 2026-04-21 162724" src="https://github.com/user-attachments/assets/fca5a105-fb13-489e-a722-ffe624fc547b" />
+
+<img width="1185" height="456" alt="스크린샷 2026-04-21 162813" src="https://github.com/user-attachments/assets/d92ecd2f-cd15-482f-addb-b268ef487623" />
+
+<img width="1196" height="243" alt="스크린샷 2026-04-21 162902" src="https://github.com/user-attachments/assets/8f0c39f8-3d92-4484-93af-703e2bf4c676" />
+
+<img width="1190" height="222" alt="스크린샷 2026-04-21 162955" src="https://github.com/user-attachments/assets/a8c6a577-9f58-4eba-a71d-a4b05c166c63" />
+
+<img width="1170" height="677" alt="스크린샷 2026-04-21 163448" src="https://github.com/user-attachments/assets/e96d690b-8fd1-4216-9782-9302275dcd5c" />
+
+<img width="1552" height="893" alt="스크린샷 2026-04-21 170050" src="https://github.com/user-attachments/assets/84c3295e-1dfe-4bb5-8d73-aaca793615a6" />
+
+<img width="1173" height="334" alt="스크린샷 2026-04-21 170345" src="https://github.com/user-attachments/assets/50a3e8ca-5282-433c-8295-ad45635d97d2" />
+
+<img width="1119" height="649" alt="스크린샷 2026-04-21 170353" src="https://github.com/user-attachments/assets/ea1163b1-7390-4048-aebc-e469e173f921" />
+
+<img width="1154" height="811" alt="스크린샷 2026-04-21 170400" src="https://github.com/user-attachments/assets/62d02bf9-fdc2-451c-bffa-afb0a0840938" />
+
+
 1. 프로그램 시작 화면
-<img width="862" height="225" alt="image" src="https://github.com/user-attachments/assets/9467cb58-986a-400b-9325-02124ce9de60" />
+<img width="862" height="225" alt="스크린샷 2026-04-21 152452" src="https://github.com/user-attachments/assets/548c8e52-e344-4151-bc0a-465181192da4" />
 
 
 2. 퀴즈 진행 화면
-<img width="676" height="190" alt="image" src="https://github.com/user-attachments/assets/b4dd7524-dbd3-40c4-8ad8-2b82d43ec633" />
+<img width="676" height="190" alt="스크린샷 2026-04-21 152519" src="https://github.com/user-attachments/assets/268cd425-07c7-46b7-bb07-0a3629a2106a" />
 
 3. 결과
-<img width="385" height="75" alt="image" src="https://github.com/user-attachments/assets/8379a659-36b5-4dfc-9653-a638f0b36994" />
+<img width="349" height="63" alt="스크린샷 2026-04-21 152604" src="https://github.com/user-attachments/assets/ddca9620-afe6-4e68-b884-234efbf221bc" />
 
-4. 퀴즈 추가 화면
-<img width="1050" height="216" alt="image" src="https://github.com/user-attachments/assets/84dc4818-fa4e-4e65-ad05-68e1a9ddb635" />
+4. 퀴즈 점수 확인
+<img width="494" height="677" alt="스크린샷 2026-04-21 152622" src="https://github.com/user-attachments/assets/0622da2f-6f63-47dd-92cc-8f041d7d8bd8" />
 
-5. 퀴즈 목록 확인
-<img width="494" height="677" alt="image" src="https://github.com/user-attachments/assets/43ba8cd3-c750-46d0-ae7c-1dcfc7a89aa3" />
+5. 퀴즈 추가 화면
+<img width="1050" height="216" alt="스크린샷 2026-04-21 152700" src="https://github.com/user-attachments/assets/d14608ec-9ce6-4fd1-a3cd-14a4ea25263c" />
 
 6. 점수 확인
-<img width="470" height="246" alt="image" src="https://github.com/user-attachments/assets/b5ff4fe8-a5f7-4a8b-94d9-2010f65b43c0" />
+<img width="470" height="246" alt="스크린샷 2026-04-21 152748" src="https://github.com/user-attachments/assets/8b8df0eb-3c81-4184-900d-ee6d927c412a" />
 
 7.잘못된 입력 처리
-<img width="808" height="381" alt="image" src="https://github.com/user-attachments/assets/b5826a98-b4a2-4767-8771-a70d5799e88f" />
+<img width="808" height="381" alt="스크린샷 2026-04-21 152808" src="https://github.com/user-attachments/assets/aaf66ca8-aec9-43d1-88ba-250e353b9151" />
 
 8.안전 종료 (Ctrl + C)
-<img width="569" height="190" alt="image" src="https://github.com/user-attachments/assets/904ad7aa-8302-44e5-9a83-c696e80e9fbd" />
+<img width="569" height="190" alt="스크린샷 2026-04-21 154449" src="https://github.com/user-attachments/assets/794b477e-b86e-4568-ac5c-97ada3452763" />
 
 
 ## 클래스 설계
