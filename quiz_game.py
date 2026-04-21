@@ -54,7 +54,7 @@ class Quiz_game:
             for j, choice in enumerate(quiz.보기, 1):
                 print(f"   {j}. {choice}")
 
-    def 메뉴(self):
+    def 메뉴(self): # 메뉴
         while True:
             print("1.퀴즈 풀기")
             print("2.퀴즈 목록")
