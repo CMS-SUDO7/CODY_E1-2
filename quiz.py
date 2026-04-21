@@ -12,7 +12,7 @@ class Quiz:
     def 정답확인(self, 선택번호):
         return 선택번호 == self.정답
     
-    def 딕셔너리(self):
+    def 딕셔너리(self): # 커밋용
         return {
             "질문": self.질문,
             "보기": self.보기,
