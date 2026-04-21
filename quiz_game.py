@@ -152,7 +152,7 @@ class Quiz_game:
                 self.저장하기()
                 raise SystemExit
 
-    def 점수확인(self):
+    def 점수확인(self): #점수확인
         if self.최고점수 == 0 and self.점수 == 0:
             print("아직 퀴즈를 풀지 않았습니다.")
         else:
