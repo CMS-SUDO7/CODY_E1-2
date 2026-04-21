@@ -129,7 +129,7 @@ class Quiz_game:
         self.저장하기()
         print('문제추가완료')
 
-    def 예외처리(self, 메세지, 최소값, 최대값):
+    def 예외처리(self, 메세지, 최소값, 최대값): # 예외처리
         while True:
             try:
                 값 = input(메세지).strip()
