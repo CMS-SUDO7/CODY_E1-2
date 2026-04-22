@@ -114,7 +114,7 @@ README.md : 프로젝트 설명 문서
 
 <img width="1190" height="222" alt="스크린샷 2026-04-21 162955" src="https://github.com/user-attachments/assets/a8c6a577-9f58-4eba-a71d-a4b05c166c63" />
 
-<img width="1170" height="677" alt="스크린샷 2026-04-21 163448" src="https://github.com/user-attachments/assets/e96d690b-8fd1-4216-9782-9302275dcd5c" />
+
 
 <img width="1552" height="893" alt="스크린샷 2026-04-21 170050" src="https://github.com/user-attachments/assets/84c3295e-1dfe-4bb5-8d73-aaca793615a6" />
 
